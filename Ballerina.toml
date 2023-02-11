@@ -1,0 +1,8 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.2.3"
+  name = "notification_webhook"
+  org = "sivanoly"
+  version = "0.1.0"
